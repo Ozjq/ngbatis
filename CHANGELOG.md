@@ -13,6 +13,7 @@ This source code is licensed under Apache 2.0 License.
   - [ ] Add batch interface:
     - [ ] insertTripletBatch
     - [x] insertEdgeBatch
+    - [x] insertSelectiveBatch
     - [ ] ...
   - [ ] Schema support:
     - [ ] show metas
